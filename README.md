@@ -104,7 +104,6 @@ Saylani brand color system
 
 The result is a portal that feels intentional, polished, and modern.
 
-Project Structure
 saylani-campus-portal/
 │
 ├── public/
@@ -122,9 +121,8 @@ saylani-campus-portal/
 ├── vite.config.js
 ├── tailwind.config.js
 ├── postcss.config.js
-├── README.md
-├── SETUP_GUIDE.md
-└── FOLDER_STRUCTURE.md
+
+
 
 
 The structure is intentionally minimal to keep scalability simple and maintenance easy.
